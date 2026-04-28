@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "RPG-Catalog",
+    "slug": "rpg-catalog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#001F3F"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#001F3F"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "60f08722-7dc1-45f3-9a28-498b34b235d6"
+      }
+    },
+    "owner": "babiluuuu",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/60f08722-7dc1-45f3-9a28-498b34b235d6"
+    }
+  }
+}
